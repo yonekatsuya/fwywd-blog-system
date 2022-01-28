@@ -7,8 +7,8 @@ export default function PageHeader() {
         <div className='float-left'>
           <Image
             src='/image/logo.png'
-            width={160}
-            height={80}
+            width={140}
+            height={70}
             alt='ロゴ'
             className='hover:cursor-pointer hover:opacity-75'
           />
