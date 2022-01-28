@@ -1,5 +1,10 @@
 import Layout from 'layouts/Layout';
+import Hero from 'components/index/Hero';
 
 export default function Home() {
-  return <Layout></Layout>;
+  return (
+    <Layout>
+      <Hero />
+    </Layout>
+  );
 }
