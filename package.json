@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.16.12",
+    "@notionhq/client": "^0.4.13",
     "@storybook/addon-actions": "^6.4.14",
     "@storybook/addon-docs": "^6.4.14",
     "@storybook/addon-essentials": "^6.4.14",
