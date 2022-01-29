@@ -3,8 +3,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero': "url('/image/hero.png')",
-        'hero-back': "url('/image/bg-hero.png')"
+        hero: "url('/image/hero.png')",
+        'hero-back': "url('/image/bg-hero.png')",
+        future: "url('/image/future.png')",
       },
       colors: {
         'base-green': '#2bb9ba',
